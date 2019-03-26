@@ -1,0 +1,4 @@
+**/*.beam
+.idea/
+learn-erlang.iml
+out/
